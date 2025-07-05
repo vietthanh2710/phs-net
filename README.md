@@ -10,7 +10,7 @@ This repository contains the implementation of **PHS-Net: Convolution and Transf
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/vietthanh2710/phs-net
+    git clone https://github.com/vietthanh2710/phs-net.git
     cd phs-net
     ```
 
