@@ -1,0 +1,5 @@
+epochs: 100
+batch_size: 8
+lr: 0.0002
+save_dir: "path/to/directory"
+loss_type: "DiceLoss"
