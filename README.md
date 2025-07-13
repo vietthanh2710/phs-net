@@ -71,11 +71,10 @@ This repository contains the implementation of **PHS-Net: Convolution and Transf
 If you use this code for your research, please cite the original paper:
 
 ```bibtex
-@article{10.1088/2631-8695/adebe0,
-	author={Nguyen, Viet-Thanh and Pham, Van-Truong and Tran, Thi-Thao},
-	title={PHS-Net: Convolution and Transformer Dual-path with Selective Feature Fusion for Medical Image Segmentation},
-	journal={Engineering Research Express},
-	url={http://iopscience.iop.org/article/10.1088/2631-8695/adebe0},
-	year={2025},
+@article{nguyen2025phs,
+  title={PHS-Net: Convolution and Transformer Dual-path with Selective Feature Fusion for Medical Image Segmentation},
+  author={Nguyen, Viet-Thanh and Pham, Van-Truong and Tran, Thi-Thao},
+  journal={Engineering Research Express},
+  year={2025}
 }
 ```
