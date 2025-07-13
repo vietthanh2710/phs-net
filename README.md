@@ -4,7 +4,7 @@ This repository contains the implementation of **PHS-Net: Convolution and Transf
 
 > **[PHS-Net: Convolution and Transformer Dual-path with Selective Feature Fusion for Medical Image Segmentation](https://iopscience.iop.org/article/10.1088/2631-8695/adebe0)**</br>
 > Viet-Thanh Nguyen, Van-Truong Pham and Thi-Thao Tran</br>
-> *Accepted at Engineering Research Express, 2025*
+> *Engineering Research Express, Volume 7, Number 3 (2025)*
 
 ## Setup
 
